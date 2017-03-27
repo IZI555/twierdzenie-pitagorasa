@@ -1,6 +1,8 @@
 import java.util.*;
 import java.util.Scanner;
 public class main {
+	
+	/**W³asnoœæ Jana Miko³ajczyka**/
 	public static double[] bubblesort(double a[])
 	{
 		double sortedArray[] = a;
